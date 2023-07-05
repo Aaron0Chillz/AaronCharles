@@ -71,7 +71,7 @@
 	<a href="https://github.com/Aaron0Chillz">.   <img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 40px></a>
 	<a href="https://www.linkedin.com/in//aaron-charles-497607170">. <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
 	<a href="https://www.instagram.com/acenetworksllc/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
-	<p align="left"> <a href="https://twitter.com/Aaron0Chillz" target="blank"><img src="https://img.shields.io/twitter/follow/Sagebeme?logo=twitter&style=for-the-badge" alt="Aaron0Chillz" /></a> </p>
+	<p align="left"> <a href="https://twitter.com/Aaron0Chillz" target="blank"><img src="https://img.shields.io/twitter/follow/Aaron0Chillz?logo=twitter&style=for-the-badge" alt="Aaron0Chillz" /></a> </p>
 	<p align="left"> <a href="https://github.com/Aaron0Chilz/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aaron0Chillz&theme=gruvbox" alt="Aaron0Chillz" /></a> </p>
 
 
